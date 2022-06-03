@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-- :telescope: I work as a Software Engineer, with a focus on cloud development and fullstack web applications.
+- :telescope: I work as a Software Engineer, with a focus on cloud development and frontend web development.
 
 - :seedling: Exploring Product Management, AI and ML.
 
