@@ -46,7 +46,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :seedling: Currently, exploring Data Analysis and ML.
 
-- :zap: In my free time, I solve problems on Hackerrank, and write/read tech articles.
+- :zap: In my free time, I solve problems on Hackerrank, and write/read tech articles on https://dev.to/husseinalamutu
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/hussein-alamutu)
 ---
