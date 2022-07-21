@@ -42,9 +42,9 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-- :telescope: I work as a Software Engineer, with a focus on cloud development and frontend web development.
+- :telescope: I work as a Software Engineer, with a focus on cloud development and Site Reliability Engineering.
 
-- :seedling: Exploring Product Management, AI and ML.
+- :seedling: Currently, exploring Data Analysis and ML.
 
 - :zap: In my free time, I solve problems on Hackerrank. improve/increase my language stack and read tech articles.
 
