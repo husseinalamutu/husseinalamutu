@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 - :telescope: I work as a cloud and DevOps Engineer.
 
-- :seedling: Currently, exploring Data Analysis and ML.
+- :seedling: Continously improving my knowledge in the DevSecOps by writing and building amazing projects.
 
 - :zap: In my free time, I solve problems on Hackerrank, and write/read tech articles on https://dev.to/husseinalamutu
 
