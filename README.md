@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-- :telescope: I work as a cloud and DevOps Engineer.
+- :telescope: I work as a Backend and DevOps Engineer.
 
 - :seedling: Continously improving my knowledge in the DevSecOps by writing and building amazing projects.
 
