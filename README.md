@@ -60,7 +60,8 @@ I’m a Strategic Digital Product/Project Manager based in Nigeria with 6 years 
 <br>
 **Other:** SEO, API Integrations, Content Strategy, Performance Optimization, Data-Driven Decision-Making, Go-to-Market Planning
 <br>
-🔥 Highlights
+<br>
+Highlights
 - Delivered 150+ pixel-perfect digital projects with a 98% client-satisfaction rate
 - Improved delivery speed by 40% through workflow optimization and agile best practices
 - Managed $2M+ annual budgets, leading cross-functional global teams across design, engineering, and strategy
