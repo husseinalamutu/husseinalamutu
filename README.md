@@ -48,17 +48,13 @@ I’m a Strategic Digital Product/Project Manager based in Nigeria with 6 years 
 
 - :zap: I Enjoy: Translating business goals into pixel-perfect, user-first digital experiences and improving delivery speed through process optimization.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/hussein-alamutu)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hussein-alamutu)
 ---
 
-### :hammer_and_wrench: Languages and Tools : AWS, GCP, Docker, Kubernetes, Jenkins, Linux, Python, CircleCI, Git/Github, Postman, REST APIs.
-<!--<div>
-  🛠️ Skills & Tools
-
-Project Management: Agile, Jira, ClickUp, Azure DevOps, Confluence
-Web & UX: WordPress, Webflow, Figma, HTML/CSS, JavaScript, Design Systems
-Cloud & Certifications: Google Associate Cloud Engineer, Microsoft Azure Fundamentals
-Other: SEO, API integrations, content strategy, performance optimization
+### :hammer_and_wrench: Skills and Tools : **Project Management: **Agile, Jira, ClickUp, Azure DevOps, Confluence
+**Web & UX:** WordPress, Webflow, Figma, HTML/CSS, JavaScript, Python, Design Systems
+**Cloud & Certifications:** Google Associate Cloud Engineer, Microsoft Azure Fundamentals
+**Other:** SEO, API integrations, content strategy, performance optimization.
 
 🔥 Highlights
 
@@ -68,4 +64,3 @@ Improved delivery speed by 40% through workflow optimization
 
 Managed project budgets exceeding $2M annually and led cross-functional global teams
 
----
