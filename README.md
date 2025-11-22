@@ -41,28 +41,30 @@ Here are some ideas to get you started:
 ---
 
 ### :man_technologist: About Me :
-I’m a Strategic Digital Product/Project Manager based in Nigeria with 6 years of experience leading complex product initiatives from discovery to delivery. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-- :telescope: Senior Digital Project Manager (Enterprise Solutions) at Turing, driving full-stack digital ecosystems, responsive design, and UX-focused solutions for global brands.
+I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+- :telescope: I work as a cloud and DevOps Engineer.
 
-- :seedling: Deepening my expertise in AI/ML platform experiences and advanced cloud certifications while optimizing workflows for global remote teams.
+- :seedling: Continously improving my knowledge in the DevSecOps by writing and building amazing projects.
 
-- :zap: I Enjoy: Translating business goals into pixel-perfect, user-first digital experiences and improving delivery speed through process optimization.
+- :zap: In my free time, I solve problems on Hackerrank, and write/read tech articles on https://dev.to/husseinalamutu
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hussein-alamutu)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/hussein-alamutu)
 ---
 
-### :hammer_and_wrench: Skills and Tools : <br>
-**Project & Product Management:** Agile/Scrum, Jira, ClickUp, Azure DevOps, Confluence, Roadmapping, Backlog Prioritization (RICE/MoSCoW), Product Discovery & Strategy, Stakeholder Management, KPI & OKR Tracking
-<br>
-**Web & UX:** WordPress, Webflow, Figma, HTML/CSS, JavaScript, Python, Design Systems, User Research, Wireframing & Prototyping, UX/UI Principles
-<br>
-**Cloud & Certifications:** Google Associate Cloud Engineer, Microsoft Azure Fundamentals
-<br>
-**Other:** SEO, API Integrations, Content Strategy, Performance Optimization, Data-Driven Decision-Making, Go-to-Market Planning
-<br>
-<br>
-Highlights
-- Delivered 150+ pixel-perfect digital projects with a 98% client-satisfaction rate
-- Improved delivery speed by 40% through workflow optimization and agile best practices
-- Managed $2M+ annual budgets, leading cross-functional global teams across design, engineering, and strategy
-- Drove product roadmaps and discovery phases, translating business goals into actionable features and measurable outcomes
+### :hammer_and_wrench: Languages and Tools : AWS, GCP, Azure, Docker, Kubernetes, Jenkins, GitLab, Harness, Prometheus, Grafana, ELK, Linux, Python, CircleCI, Git/Github, GitHub Actions Postman, REST APIs.
+<!--<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain-wordmark.svg" title="WordPress" alt="WordPress" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+</div> -->
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=husseinalamutu&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=husseinalamutu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
